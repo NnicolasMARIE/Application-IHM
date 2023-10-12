@@ -9,3 +9,6 @@ Application d'apprentissage d'une langue
 * Déziper le fichier mycrossword.zip
 * Mettre le dossier mycrossword dans le dossier node_modules
 * **Faire** : `npm start`
+
+
+Credit: Romain GRANIE / Nicolas MARIE
